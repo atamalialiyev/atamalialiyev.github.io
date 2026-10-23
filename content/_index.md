@@ -6,10 +6,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
+      username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
